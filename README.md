@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 🤝 I’m looking for help with **Javascript,figma.**
-
 - 📫 How to reach me **pdiniruta1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
