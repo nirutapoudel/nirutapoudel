@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/audrey_432" target="blank"><img src="https://img.shields.io/twitter/follow/audrey_432?logo=twitter&style=for-the-badge" alt="audrey_432" /></a> </p>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on Flutter
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning Flutter
 
 - 📫 How to reach me **pdiniruta1@gmail.com**
 
