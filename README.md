@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Flutter
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter for further knowledge..
 
 - 📫 How to reach me **pdiniruta1@gmail.com**
 -  ⚡ Fun fact **I think I am funny...**
