@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **pdiniruta1@gmail.com**
 -  ⚡ Fun fact **I think I am funny...**
--  Ask me about anything related to flutter.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
