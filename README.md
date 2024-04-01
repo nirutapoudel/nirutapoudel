@@ -10,7 +10,8 @@
 - 🌱 I’m currently learning Flutter
 
 - 📫 How to reach me **pdiniruta1@gmail.com**
--  ⚡ Fun fact **I think I am funny...**
+-  ⚡ Fun fact **I think I am funny... What do you think?**
+-  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
