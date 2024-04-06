@@ -12,7 +12,7 @@
 - 📫 How to reach me **pdiniruta1@gmail.com**
 -  ⚡ Fun fact **I think I am funny...**
 
-<h3 align="left">Connect with me on:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/audrey_432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="audrey_432" height="30" width="40" /></a>
 <a href="https://fb.com/niruta poudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niruta poudel" height="30" width="40" /></a>
