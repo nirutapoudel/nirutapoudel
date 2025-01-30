@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Niruta Poudel</h1>
+<h1 align="center">Hello there 👋, I'm Niruta Poudel</h1>
 <h3 align="center">Software Engineering student who loves exploring new ideas and emphasizes on learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirutapoudel&label=Profile%20views&color=0e75b6&style=flat" alt="nirutapoudel" /> </p>
